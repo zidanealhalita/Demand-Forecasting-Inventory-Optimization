@@ -1,0 +1,6 @@
+region,distribution_centre,volume_scale,base_temp_c,lead_time_multiplier
+Jabodetabek,DC Cikarang (synthetic),1.6,28.5,1.0
+Jawa Barat,DC Bandung (synthetic),1.2,25.5,1.0
+Jawa Tengah,DC Semarang (synthetic),0.9,27.0,1.15
+Jawa Timur,DC Surabaya (synthetic),1.1,28.0,1.2
+Sumatera,DC Medan (synthetic),0.8,27.5,1.6

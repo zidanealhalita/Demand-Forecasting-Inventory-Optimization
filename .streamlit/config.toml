@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#0072B2"
+base = "light"
+
+[server]
+headless = true
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

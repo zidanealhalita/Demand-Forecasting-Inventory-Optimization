@@ -1,0 +1,11 @@
+sku_id,sku_name,category,case_size,unit_cost_idr,list_price_idr_2023,shelf_life_days,planned_lead_time_days,lead_time_std_days,review_period_days,holding_cost_pct_per_year,ordering_cost_idr,target_service_level
+WTR-220,Air Mineral Gelas 220ml,Water,48,650,900,540,3,1.0,3,0.18,350000,0.95
+WTR-600,Air Mineral Botol 600ml,Water,24,1800,2600,540,3,1.0,3,0.18,350000,0.95
+WTR-1500,Air Mineral Botol 1.5L,Water,12,3200,4400,540,3,1.0,4,0.18,350000,0.95
+WTR-GAL19,Air Mineral Galon 19L,Water,1,11000,17000,365,2,0.7,2,0.15,250000,0.95
+MLK-UHT200,Susu UHT Cokelat 200ml,Dairy,24,3800,5200,270,4,1.2,5,0.22,450000,0.95
+MLK-UHT1000,Susu UHT Full Cream 1L,Dairy,12,15500,20500,270,4,1.2,7,0.22,450000,0.95
+FRM-400,Susu Pertumbuhan Anak 400g,Nutrition,12,48000,62000,540,7,2.0,7,0.2,600000,0.95
+FRM-900,Susu Pertumbuhan Anak 900g,Nutrition,6,105000,135000,540,7,2.0,7,0.2,600000,0.95
+YGT-100,Yogurt Cup 100g (chilled),Dairy-Chilled,48,2600,3800,45,2,0.6,2,0.35,300000,0.95
+OAT-250,Minuman Oat Nabati 250ml,Plant-based,24,5200,7600,180,5,1.5,5,0.22,450000,0.95
